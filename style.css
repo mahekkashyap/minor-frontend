@@ -1,0 +1,134 @@
+/* Navbar */
+.navbar {
+    background-color: #8e44ad; /* Purple */
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: #fff; /* White */
+}
+
+.navbar-brand:hover,
+.navbar-nav .nav-link:hover {
+    color: #fff; /* White */
+}
+
+/* Forms */
+.form-control {
+    border-color: #8e44ad; /* Purple */
+}
+
+.form-control:focus {
+    border-color: #7d3c98; /* Darker purple */
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #8e44ad; /* Purple */
+    border-color: #8e44ad; /* Purple */
+}
+
+.btn-primary:hover {
+    background-color: #7d3c98; /* Darker purple */
+    border-color: #7d3c98; /* Darker purple */
+}
+
+.btn-info {
+    background-color: #9b59b6; /* Purple */
+    border-color: #9b59b6; /* Purple */
+}
+
+.btn-info:hover {
+    background-color: #884ea0; /* Darker purple */
+    border-color: #884ea0; /* Darker purple */
+}
+
+.btn-success {
+    background-color: #27ae60; /* Green */
+    border-color: #27ae60; /* Green */
+}
+
+.btn-success:hover {
+    background-color: #219d54; /* Darker green */
+    border-color: #219d54; /* Darker green */
+}
+
+.btn-warning {
+    background-color: #f1c40f; /* Yellow */
+    border-color: #f1c40f; /* Yellow */
+}
+
+.btn-warning:hover {
+    background-color: #d4b30a; /* Darker yellow */
+    border-color: #d4b30a; /* Darker yellow */
+}
+
+.btn-danger {
+    background-color: #e74c3c; /* Red */
+    border-color: #e74c3c; /* Red */
+}
+
+.btn-danger:hover {
+    background-color: #cb4335; /* Darker red */
+    border-color: #cb4335; /* Darker red */
+}
+
+/* Tables */
+.table {
+    border-color: #8e44ad; /* Purple */
+}
+
+.table th,
+.table td {
+    border-color: #8e44ad; /* Purple */
+}
+
+.table th {
+    background-color: #8e44ad; /* Purple */
+    color: #fff; /* White */
+}
+
+/* Cards */
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #8e44ad; /* Purple */
+    color: #fff; /* White */
+    border-color: #8e44ad; /* Purple */
+}
+
+.card-body {
+    padding: 20px;
+}
+
+/* Page content */
+.page {
+    margin-top: 20px;
+}
+
+/* Inputs */
+input[type="text"],
+input[type="password"],
+input[type="number"] {
+    border-radius: 20px;
+}
+
+/* Modals */
+.modal-content {
+    border-radius: 20px;
+}
+
+.modal-header {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #8e44ad; /* Purple */
+    color: #fff; /* White */
+}
+
+.modal-footer {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
